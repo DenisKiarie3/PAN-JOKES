@@ -3,7 +3,7 @@ import Joke from "./components/joke.jsx"
 export default function App() {
   return (
     <>
-    <h1 className="font-bold my-[20px] text-center sm:max-w-[720px]">JOKES BY DENIS</h1>
+    <h1 className="font-bold my-[20px] text-center sm:max-w-[720px]">PUNS BY DENIS</h1>
       <main className="sm:max-w-[720px]">
       <Joke
         punchline = "It's hard to explain puns to kleptomaniacs because they always take things literally."
